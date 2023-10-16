@@ -1,3 +1,4 @@
 hello.cpp
-hello.o
+*.o
+*.so
 __pycache__/
